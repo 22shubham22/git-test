@@ -1,1 +1,6 @@
 hi. hello . master.
+hi. hello
+
+server.
+client.
+client. i hate server
